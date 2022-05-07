@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.AuthDet{
+  color: navy;
+  padding-left: 8px;
+}
+
+.card img{
+  height: 160px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.full-width{
+  width: 100%;
+}
+
+.infinite-scroll-component {
+  overflow: none;
+}
